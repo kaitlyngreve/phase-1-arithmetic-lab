@@ -1,2 +1,8 @@
+let num1 = a
+let num2 = b
 
-// Write your code here
+let multiply = (num1 * num2)
+
+function letsMultiply(num1, num2) {
+    return num1 * num2
+}
